@@ -1,4 +1,4 @@
-#PM Report Filter
+PM Report Filter
 ---
 The goal of this document is to assist building a stand alone python file that can filter an excel report [*my current employer*] provides.
     
